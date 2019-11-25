@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+* I am tytem on github.
+* I am tytem (https://keybase.io/tytem) on keybase.
+* I have a public key ASCx4IgW0db0tYjTVd7NKmIgARxUMv49NDyQppptovSJuAo
+
+To claim this, I am signing this object:
+
+```json
+{
+"body": {
+"key": {
+"eldest_kid": "0120b1e08816d1d6f4b588d355decd2a6220011c5432fe3d343c90a69a6da2f489b80a",
+"host": "keybase.io",
+"kid": "0120b1e08816d1d6f4b588d355decd2a6220011c5432fe3d343c90a69a6da2f489b80a",
+"uid": "e7fc4bec8c59d476c3f50f41f2613019",
+"username": "tytem"
+},
+"merkle_root": {
+"ctime": 1574713871,
+"hash": "3a73af2d4faafeb7a71cc0e6e2ac6897a5bebdc1d8f927915822d05483ec88f6dd393e5e5618c1bc65aa87af9de112a34769cac0d80ab1bb8dd97c958a145560",
+"hash_meta": "7187cabd58ba8c0deae8a849a7ceb4ab18587600eb48aab54906f38dc86cd90d",
+"seqno": 10860895
+},
+"service": {
+"entropy": "YUkKV5v1pYHRteI27lKmWkLn",
+"name": "github",
+"username": "tytem"
+},
+"type": "web_service_binding",
+"version": 2
+},
+"client": {
+"name": "keybase.io go client",
+"version": "5.0.0"
+},
+"ctime": 1574713882,
+"expire_in": 504576000,
+"prev": "936ac406bca52fcd6882ad38906f12f8897e114d85dfb6bd1294562802691d97",
+"seqno": 10,
+"tag": "signature"
+}
+```
+
+with the key [ASCx4IgW0db0tYjTVd7NKmIgARxUMv49NDyQppptovSJuAo](https://keybase.io/tytem), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgseCIFtHW9LWI01XezSpiIAEcVDL+PTQ8kKaabaL0ibgKp3BheWxvYWTESpcCCsQgk2rEBrylL81ogq04kG8S+Il+EU2F37a9EpRWKAJpHZfEIETUgo0xY9fmRmehBVuX8l1AYB0eDgYZpD1WCvJV3c+8AgHCo3NpZ8RA/i5h120AkCSPeH/4kaaQTk+how2jl/NOLp33Jl+aJRMD9+clqI8CD0TcyLGcgYJdJvLFEypFlNuDmKSBDzzKCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJNoURIdXhUbDiWgZxLTJtMw/6ZbJqTDPCnBHHIyI+Ato3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tytem
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tytem
+```
